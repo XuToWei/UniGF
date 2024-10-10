@@ -1,0 +1,18 @@
+{
+    "name": "UniGF.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f3110d31ecb4bc94d8ace9083d99dd79"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
